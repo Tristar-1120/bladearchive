@@ -1,6 +1,4 @@
-# Welcome to the Flash Archive.
-This GitHub hosts 51 flash games for everyone to enjoy, from home to school to work.
+# Welcome to the Blade Archive.
+This GitHub hosts flash games for everyone to enjoy on Blade, from home to school to work.
 
-# Installation
-To be able to use this website locally, all you have to do is download the Full Website in the Packages tab. You can host it on a Github
-Pages site for free.
+# Thanks to Selenite-CC for adding the games.
